@@ -1,54 +1,19 @@
-# 🔐 Password Strength Analyzer
+# Password Strength Analyzer
 
-A Python-based web application that analyzes password strength and provides security recommendations.
+A Python-based cybersecurity project that analyzes password strength and provides security recommendations.
 
-## 🚀 Features
+## 🚀 Live Demo
+[Click here to try the Password Strength Analyzer](https://skkarthik8072-droid-password-strength-analyzer-app-kkismp.streamlit.app/)
 
-- Checks password length
-- Checks uppercase letters
-- Checks lowercase letters
-- Checks numbers
-- Checks special characters
-- Detects common passwords
-- Displays password strength
-- Shows security score
-- Provides password improvement suggestions
-- Generates strong random passwords
-- Simple Streamlit web interface
-
-## 🛠️ Technologies Used
-
+## Technologies Used
 - Python
 - Streamlit
-- Regular Expressions (Regex)
+- Regular Expressions
 
-## 📂 Project Structure
+## Features
+- Password strength analysis
+- Password security feedback
+- Recommendations for creating stronger passwords
 
-Password-Strength-Analyzer/
-│
-├── app.py
-├── password_analyzer.py
-├── requirements.txt
-└── README.md
-
-## ▶️ How to Run
-
-Install the required package:
-
-pip install -r requirements.txt
-
-Run the application:
-
-python -m streamlit run app.py
-
-## 🎯 Project Objective
-
-The objective of this project is to help users understand password security and create stronger passwords by checking common password security requirements.
-
-## 📚 Learning Outcomes
-
-- Understanding password security principles
-- Using Python scripting
-- Using regular expressions for input validation
-- Building a simple web application with Streamlit
-- Providing user-friendly security feedback
+## Disclaimer
+Educational project. Do not enter real or sensitive passwords.
